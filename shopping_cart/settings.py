@@ -164,7 +164,7 @@ STATIC_URL = '/static/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
-# Urls Redirect
+# Urls Redir
 LOGIN_REDIRECT_URL = '/cart/pay/'
 LOGOUT_REDIRECT_URL = '/'
 
