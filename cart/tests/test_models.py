@@ -20,7 +20,7 @@ class ItemTest(TestCase):
             image='items/adobe_illustrator.png'
         )
 
-        self.assertEqual(item.price, 29)
+        self.assertEqual(item.price, 39)
         self.assertEqual(item.id, 1)
 
     def test_item_delete(self):
