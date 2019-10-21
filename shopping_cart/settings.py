@@ -34,7 +34,7 @@ DEBUG = env.bool('DJANGO_DEBUG', False)
 
 ALLOWED_HOSTS = ['https://devgum.herokuapp.com/', '127.0.0.1', 'devgum.herokuapp.com']
 
-# Application definition
+# Application definitio
 
 DJANGO_APPS = (
     'django.contrib.admin',
